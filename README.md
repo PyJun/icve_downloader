@@ -1,7 +1,7 @@
 # 智慧职教/职教mooc/职教云视频课程下载器（Win电脑版）
 智慧职教视频课程下载工具，一键下载智慧职教/职教mooc/职教云上面的视频课件资料
 
-工具获取地址：https://lanzouw.com/s/course-downloader
+工具获取地址：https://pyjun.lanzoup.com/s/course-downloader
 
 ## 安装教程
 从蓝奏云网盘下载最新版学无止下载器后，点击确认一路安装即可
